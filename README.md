@@ -1,7 +1,8 @@
 # IOT-Pet-Feeder
 
-In this I have a automated pet feeding system It is connected to google assistant also we can set timer to feed the pet, it is also connected to blynk app to open the gate for feeding or dropping the food
+In this I have an automated pet feeding system It is connected to Google Assistant also we can set the timer to feed the pet, it is also connected to Blynk app to open the gate for feeding or dropping the food
 
+- https://docs.google.com/presentation/d/1J-XlUphvUT-LllO8QMx2eScUTakMgKV1/edit?usp=drive_link&ouid=111599084868524496540&rtpof=true&sd=true
 
 https://user-images.githubusercontent.com/98796628/169439834-7e5528d1-3431-403d-93d4-ffb8f357d8e4.mp4
 
