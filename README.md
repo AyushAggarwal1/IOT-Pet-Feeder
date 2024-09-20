@@ -52,6 +52,12 @@ Create an IFTTT applet to trigger feeding via Google Assistant voice commands.
 5. **Monitor in Real-Time:**
 Open the Blynk app to manually control and monitor feeding.
 
+## Presentation
+
+For a detailed overview of the this project, including its features, design, and implementation, check out the project presentation:
+
+[Automated Pet Feeding System Presentation](https://docs.google.com/presentation/d/1J-XlUphvUT-LllO8QMx2eScUTakMgKV1/)
+
 ## Demostrated Videos
 
 https://user-images.githubusercontent.com/98796628/169439834-7e5528d1-3431-403d-93d4-ffb8f357d8e4.mp4
